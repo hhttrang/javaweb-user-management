@@ -1,0 +1,20 @@
+SMAP
+pilot_jsp.java
+JSP
+*S JSP
+*F
++ 0 pilot.jsp
+pilot.jsp
++ 1 headerforall.jsp
+headerforall.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,10:50
+5#1,90:60
+14#0,7:150
+21:157,3
+22,14:160
+5#2,67:174
+35#0,3:241
+*E
